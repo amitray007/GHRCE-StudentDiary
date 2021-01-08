@@ -16,6 +16,6 @@ GHRCE Student Diary is used by Students to check their Attendance, Personal deta
 - News and Notice
 - Notification
 
-# Screenshots
+# Snapshots
 ![](https://github.com/amitray007/GHRCE-StudentDiary/blob/main/Images/AuthPage.png?raw=true)
 ![](https://github.com/amitray007/GHRCE-StudentDiary/blob/main/Images/StudentMenu.png?raw=true)
